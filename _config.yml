@@ -57,38 +57,40 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: NC Soft
-        link: https://www.ncsoft.com
-        link_text: www.ncsoft.com
-        sub_title: Data Engineer<br>Back-end & Front-end Developer
+        title: NC
+        link: https://www.nc.com
+        link_text: www.nc.com
+        sub_title: Data Engineer<br>Software Engineer
         caption: Jan 2024 - Present
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           ## Data Engineering Team (2024.01 ~ Present)
-          **Senior Developer (Data Engineer)** <br>
+          **Data Engineer / Back-end & Front-end Developer** <br>
           Development, operation, and maintenance of an ETL platform that collects and transforms database data loaded in game services
-          -  Management and operation of the ETL process that collects and transforms game database data
-          - Development of a data transformation service based on Spring Boot, Vue.js 3, Zeppelin, and Spark
+          - Develop and operate ETL pipelines and management platform components for game data analytics and utilization
+          - Develop data transformation services based on Spring Boot, Vue.js, Zeppelin, and Spark
+          - Improve data access architecture to resolve query limitations in a network-segmented environment
+          - Operate ETL pipelines that collect RDB-based game database snapshots into Hadoop
 
       - layout: left
         title: AhnLab
         link: https://www.ahnlab.com
         link_text: www.ahnlab.com
-        sub_title: Data Engineer<br>Senior Analyst
+        sub_title: Data Engineer<br>Malware Incident Responder
         caption: Nov 2010 - Jan 2024
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           ## Response Team (Feb 2021 ~ Jan 2024)
-          **Project Leader (Data Engineer)** <br>
+          **Data Engineer / Malware Incident Responsder** <br>
           Leading the entire process of work automation and data projects
           - **Reduce** data processing **time** by **90%** by building own Hadoop platform and ETL pipeline
           - Automation of public information collection on incident information sharing sites
           <br> <br>
 
           ## AI Team (Feb 2018 ~ Jan 2020)
-          **Senior Developer (Data Engineer)** <br>
+          **Data Engineer / Software Deveploper** <br>
           Participating in ETL pipeline development based on Spark, Hadoop, and AirFlow
           - **70% reduction** in processing time for 15 billion behavioral data per month
           - **50% improvement** in label and latest status update performance for 7 billion files
@@ -96,7 +98,7 @@ content:
           <br> <br>
 
           ## ASEC Response Team (Nov 2010 ~ Jan 2018)
-          **Senior Analyst / Evangelist (Incident Analysis/Response)** <br>
+          **Malware Incident Responder / Security Evangelist** <br>
           Analysis of malware incidents, response to major security issues, and activities for incident prevention
           - Selected as a **premium representative employee** ([Maeil Business](https://www.mk.co.kr/premium/print/8724/) Newspaper - Dec 2014)
           - System analysis of malware-based cyber attacks
